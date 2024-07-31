@@ -9,7 +9,7 @@ export default function App() {
       <StatusBar style="auto" />
       <Link href="/Profile" style={{color :'blue'}}>Go to profile</Link>
     </View>
-  );
+  );  
 }
 
 const styles = StyleSheet.create({
